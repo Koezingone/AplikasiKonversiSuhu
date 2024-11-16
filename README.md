@@ -21,4 +21,4 @@ Aplikasi Konversi Suhu adalah aplikasi Java yang membantu pengguna mengonversi s
 
 ## Screenshots
 
-![App Screenshot]()
+![App Screenshot](https://github.com/Koezingone/AplikasiKonversiSuhu/blob/main/img/penghitungSuhu.gif)
